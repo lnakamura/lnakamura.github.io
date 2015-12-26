@@ -71,6 +71,7 @@ a {text-decoration: none;  }
   padding-top: 60px;
   width: 500px;
   margin: 0 auto;
+  text-transform: uppercase;
 }
 
 .slideUp{
