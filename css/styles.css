@@ -69,7 +69,7 @@ a {text-decoration: none;  }
 
 #header {
   position: relative;
-  padding-top: 50px;
+  padding-top: 160px;
   width: 500px;
   margin: 0 auto;
 }
@@ -122,6 +122,7 @@ hr {
   background: #232323;
 }
 
+
 #about {
   text-align: center;
   margin-top: -240px; background-color: #fff;
@@ -133,7 +134,6 @@ hr {
   text-align: center;
   /* text-transform: uppercase; */
   font-size: 2.25em;
-  letter-spacing:3px;
   line-height: 10%;
   margin: 40px;
 }
@@ -264,12 +264,10 @@ footer li {
 
 @media (min-width : 320px) and (max-width : 685px) {
   html, body {-webkit-overflow-scrolling: touch;}
-  #header { position: relative; top: 4%!important; width:auto; margin: 0 0 0 5px; padding: 0; }
-  #header .logo { left: 50px; top: 50px; position: relative; width: 100px; margin: 0 auto; text-align: center; }
-  #header-bkg { height: 400px; margin-top: -4px;}
+  #header { position: relative; top: 0%!important; width:auto; margin: 0 0 0 5px; padding: 0; }
+  #header-bkg { height: 400px;}
   h1 {width: auto;}
-  #header ul {margin: 0; padding: 0; text-align: center;}
-  #pic {width:250px; height: 250px; }
+  #pic {width:100px; height: 100px; }
   section {padding: 50px 0;}
   h1 {font-size: 1.85em; text-align: center; border: none; padding-top: 70px;}
   h1 span { font-size: .39em;}
