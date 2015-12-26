@@ -262,7 +262,7 @@ footer li {
 @media (min-width : 320px) and (max-width : 685px) {
   html, body {-webkit-overflow-scrolling: touch;}
   #header { position: relative; top: 0%!important; width:auto; margin: 0 0 0 5px; padding: 0; }
-  #header-bkg { height: 400px;}
+  #header-bkg { height: 300px;}
   h1 {width: auto;}
   #pic {width:100px; height: 100px; }
   section {padding: 50px 0;}
